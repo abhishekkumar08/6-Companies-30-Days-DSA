@@ -18,10 +18,6 @@ int main() {
 		cout<<encode(str)<<endl;
 	}
 	return 0;
-}// } Driver Code Ends
-
-
-/*You are required to complete this function */
 
 string encode(string src)
 {
