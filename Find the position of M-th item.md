@@ -45,3 +45,4 @@ int main() {
 
 - Visualise the ques by taking an example.
 - We check if the number of items to be distributed is greater than our remaining positions in current cycle of circle or not. If yes, then we simply return m + k – 1 (We distribute items in same cycle starting from k). Else we compute number of remaining items after completing current cycle and return mod of remaining items.
+
